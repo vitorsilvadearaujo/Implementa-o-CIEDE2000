@@ -8,4 +8,4 @@ Implementação de fórmulas de diferença perceptiva de cores
 # -rgb2lab - Função de conversão entre os sistemas;
 # -_get_lab_color1_vector.py - Função de formatação de parametros;
 # -_get_lab_color2_matrix.py - Função de formatação de parametros;
-# -delta_e_cie2000.py - Função que calcula a diferença perceptiva entre duas LabColors;
+# -delta_e_cie2000.py - Função que calcula a diferença perceptiva entre duas LabColors.
