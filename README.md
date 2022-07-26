@@ -1,5 +1,5 @@
 # Implementa-o-CIEDE2000
-Implementação de fórmulas de diferença perceptiva de cores
+Implementação de fórmula de diferença perceptiva de cores
 
 # DEFINIÇÕES DE ARQUIVOS DO REPOSITÓRIO
 
